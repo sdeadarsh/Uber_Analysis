@@ -4,14 +4,14 @@ In this we have analysis the uber dataset of new-york city and we came up with Q
 
 Questions
 
-Which month has the maximum rides ?
-Which date of the month has the maximum rides ?
-Total rides month wise ?
-what's the rush as per hour ?
-Analysis which base number get popular by month name ?
-Try to Analysis different month and year and find the month of most pickups
-What's the rush in New York City as per the hour ?
-Analysis the rush of New York city with respect to Day and Hour wise ?
+* Which month has the maximum rides ?
+* Which date of the month has the maximum rides ?
+* Total rides month wise ?
+* what's the rush as per hour ?
+* Analysis which base number get popular by month name ?
+* Try to Analysis different month and year and find the month of most pickups
+* What's the rush in New York City as per the hour ?
+* Analysis the rush of New York city with respect to Day and Hour wise ?
 
 
 And we also try to answer all the question with a proper answer here 
